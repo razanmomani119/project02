@@ -1,0 +1,20 @@
+.navbar {
+    position: fixed;
+    top: 0;
+}
+
+.card {
+    position: relative;
+}
+
+.badge {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
